@@ -1,11 +1,30 @@
 ---
 layout: default
+published: true
 ---
+
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
+    <table class="post-meta">
+  {% if page.fpv %}
+    <tr><td>FPV</td> <td>{{ page.fpv }}</td></tr>
+  {% endif %}
+  {% if page.duration %}
+    <tr><td>duration</td> <td>{{ page.duration }}</td></tr>
+  {% endif %}
+  {% if page.mode %}
+    <tr><td>mode</td> <td>{{ page.mode }}</td></tr>
+  {% endif %}
+  {% if page.amps %}
+    <tr><td>amps</td> <td>{{ page.amps }}</td></tr>
+  {% endif %}
+  {% if page.batteries %}
+    <tr><td>batteries</td> <td>{{ page.batteries }}</td></tr>
+  {% endif %}
+  </table>
 </div>
 
 <div class="related">
