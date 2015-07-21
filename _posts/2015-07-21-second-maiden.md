@@ -20,4 +20,4 @@ Objective is to get better at throttle control and executing yaw/roll moves at t
 
 Took one hard landing which made the front-right prop arm collapse, but that's as intended. Awesome.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p94HcmNpFPM" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/p94HcmNpFPM" frameborder="0" allowfullscreen></iframe>
