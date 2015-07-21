@@ -12,6 +12,8 @@ batteries: 3
 
 Objective this time around was to get better at throttle control and executing yaw/roll moves at the same time (radial motion). Generally happy with how that all worked out. Took one hard landing which made the front-right prop arm collapse, but that's as intended. Awesome.
 
+![Initial Setup](https://lh3.googleusercontent.com/qkc-gIz8cXLCPbGU_ukV0iGymCIUJi_XFjO0-RVxYJk=w711-h400-no)
+
 Five-minute timer on the 9X feels a little restrictive - definitely feels like the batteries are increasing their runtime as I cycle them.
 
 - Walk-the-dog
