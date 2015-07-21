@@ -567,6 +567,17 @@ a.pagination-item:hover {
 *****custom css code****
 ************************/
 iframe {
-    max-width: 100vw;
-    max-height: 56.25vw; /* height/width ratio = 315/560 = .5625 */
+  max-width: 28rem;
+}
+@media (min-width: 38em) {
+  iframe {
+    max-width: 32rem;
+    max-height: 18rem;
+  }
+}
+@media (min-width: 56em) {
+  iframe {
+    max-width: 38rem;
+    max-height:21.375rem
+  }
 }
