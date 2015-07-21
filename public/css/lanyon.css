@@ -587,11 +587,18 @@ iframe {
 }
 .post-meta {
   position: absolute;
-  right: 100%;
+  right: 105%;
   top: 0;
   width: auto;
+  border: 0;
 }
-.post-meta td {
-  padding: .15rem .15rem;
-  font: .75rem Monospace;
+.post-meta td,
+.post-meta th {
+  padding: .15rem;
+  font-size: 0.6rem;
+  font-family: Monospace;
+  border-width: 1px 0;
+}
+.post-meta th {
+  text-align: left  
 }
