@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -19,19 +20,19 @@ published: true
     {{ post.content }}
     <table class="post-meta">
     {% if post.fpv %}
-      <tr><td>FPV</td> <td>{{ post.fpv }}</td></tr>
+      <tr><td>FPV</td> <th>{{ post.fpv }}</th></tr>
     {% endif %}
     {% if post.duration %}
-      <tr><td>duration</td> <td>{{ post.duration }}</td></tr>
+      <tr><td>duration</td> <th>{{ post.duration }}</th></tr>
     {% endif %}
     {% if post.mode %}
-      <tr><td>mode</td> <td>{{ post.mode }}</td></tr>
+      <tr><td>mode</td> <th>{{ post.mode }}</th></tr>
     {% endif %}
     {% if post.amps %}
-      <tr><td>amps</td> <td>{{ post.amps }}</td></tr>
+      <tr><td>amps</td> <th>{{ post.amps }}</th></tr>
     {% endif %}
     {% if post.batteries %}
-      <tr><td>batteries</td> <td>{{ post.batteries }}</td></tr>
+      <tr><td>batteries</td> <th>{{ post.batteries }}</th></tr>
     {% endif %}
     </table>
   </div>
