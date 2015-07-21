@@ -1,6 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+fpv: false
+duration: ~30m
+mode: angle
+amps: 3900 mAh
+batteries: 3
 ---
+
 
 ## Second Maiden
 
