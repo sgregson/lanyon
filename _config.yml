@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               TangenT RC Log
+title:               TanGenT RC Log
 tagline:             'All the crashes you could imagine'
-description:         ''
+description:         'Flight log of a first-time FPV experience on the IRC Vortex'
 url:                 http://sgregson.github.io/tangent-rc
 baseurl:             '/tangent-rc'
 paginate:            5
