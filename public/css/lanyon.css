@@ -582,3 +582,16 @@ iframe {
     max-height:21.375rem
   }
 }
+.post {
+  position: relative;
+}
+.post-meta {
+  position: absolute;
+  right: 100%;
+  top: 0;
+  width: auto;
+}
+.post-meta td {
+  padding: .15rem .15rem;
+  font: .75rem Monospace;
+}
