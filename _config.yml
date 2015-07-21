@@ -11,6 +11,8 @@ description:         ''
 url:                 http://sgregson.github.io/lanyon
 baseurl:             '/lanyon'
 paginate:            5
+github:
+  repo:             http://github.com/sgregson/lanyon
 
 # About/contact
 author:
