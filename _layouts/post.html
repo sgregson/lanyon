@@ -4,25 +4,26 @@ published: true
 ---
 
 
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
     <table class="post-meta">
   {% if page.fpv %}
-    <tr><td>FPV</td> <td>{{ page.fpv }}</td></tr>
+    <tr><td>FPV</td> <th>{{ page.fpv }}</th></tr>
   {% endif %}
   {% if page.duration %}
-    <tr><td>duration</td> <td>{{ page.duration }}</td></tr>
+    <tr><td>duration</td> <th>{{ page.duration }}</th></tr>
   {% endif %}
   {% if page.mode %}
-    <tr><td>mode</td> <td>{{ page.mode }}</td></tr>
+    <tr><td>mode</td> <th>{{ page.mode }}</th></tr>
   {% endif %}
   {% if page.amps %}
-    <tr><td>amps</td> <td>{{ page.amps }}</td></tr>
+    <tr><td>amps</td> <th>{{ page.amps }}</th></tr>
   {% endif %}
   {% if page.batteries %}
-    <tr><td>batteries</td> <td>{{ page.batteries }}</td></tr>
+    <tr><td>batteries</td> <th>{{ page.batteries }}</th></tr>
   {% endif %}
   </table>
 </div>
