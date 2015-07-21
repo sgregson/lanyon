@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+duration: 2.5h
 ---
 
 
