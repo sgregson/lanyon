@@ -9,7 +9,7 @@ title:               TangenT RC Log
 tagline:             'All the crashes you could imagine'
 description:         ''
 url:                 http://sgregson.github.io/tangent-rc
-baseurl:             '/lanyon'
+baseurl:             '/tangent-rc'
 paginate:            5
 github:
   repo:             http://github.com/sgregson/tangent-rc
