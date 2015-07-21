@@ -8,11 +8,11 @@ relative_permalinks: true
 title:               TangenT RC Log
 tagline:             'All the crashes you could imagine'
 description:         ''
-url:                 http://sgregson.github.io/lanyon
+url:                 http://sgregson.github.io/tangent-rc
 baseurl:             '/lanyon'
 paginate:            5
 github:
-  repo:             http://github.com/sgregson/lanyon
+  repo:             http://github.com/sgregson/tangent-rc
 
 # About/contact
 author:
