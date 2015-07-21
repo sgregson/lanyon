@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Home
+published: true
 ---
+
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -15,6 +17,23 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+    <table class="post-meta">
+    {% if post.fpv %}
+      <tr><td>FPV</td> <td>{{ post.fpv }}</td></tr>
+    {% endif %}
+    {% if post.duration %}
+      <tr><td>duration</td> <td>{{ post.duration }}</td></tr>
+    {% endif %}
+    {% if post.mode %}
+      <tr><td>mode</td> <td>{{ post.mode }}</td></tr>
+    {% endif %}
+    {% if post.amps %}
+      <tr><td>amps</td> <td>{{ post.amps }}</td></tr>
+    {% endif %}
+    {% if post.batteries %}
+      <tr><td>batteries</td> <td>{{ post.batteries }}</td></tr>
+    {% endif %}
+    </table>
   </div>
   {% endfor %}
 </div>
@@ -35,4 +54,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
