@@ -11,6 +11,8 @@ batteries: 1
 
 Conditions this time around were less-than-ideal, mostly because I waited around too long and it had gotten a little dark (*blame a tasty soba noodle dinner and be happy for it*). Practice-wise it was more of the same - launches and radial moves. Two observations - (1) Man, is the LED panel ever bright! (2) The FPV camera has suprisingly good low-light detail. The illumination was 90% streetlamps, and the fact that I could make out the terrain change in the grass is impressive.
 
+![Backpack + Setup](https://lh3.googleusercontent.com/sEJN7PCjoJIhMpTRuasDYooZYf5-qTLs38mU5VwAerw=w798-h449-no)
+
 Unfortunately, by the time I got into the groove - about to load the second battery - it started raining and I had to pack it up in a hurry. I'm glad the backpack showed up today.
 
 New arrivals:
