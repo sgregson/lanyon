@@ -568,7 +568,10 @@ a.pagination-item:hover {
 ************************/
 iframe {
   max-width:  28rem;
-  max-height: 15.75rem
+  max-height: 15.75rem;
+  width: 100%; /* container: 100vw - 2rem */
+  height: 56.25vw; /* close enough */
+  height: calc((100vw - 2rem) / 1.777); /* calc(FTW) */
 }
 .post-meta {
   width: auto;
