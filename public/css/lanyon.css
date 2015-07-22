@@ -570,26 +570,9 @@ iframe {
   max-width:  28rem;
   max-height: 15.75rem
 }
-@media (min-width: 38em) {
-  iframe {
-    max-width:  32rem;
-    max-height: 18rem;
-  }
-}
-@media (min-width: 56em) {
-  iframe {
-    max-width: 38rem;
-    max-height:21.375rem
-  }
-}
-.post {
-  position: relative;
-}
 .post-meta {
-  position: absolute;
-  right: 105%;
-  top: 0;
   width: auto;
+  float: right;
   border: 0;
 }
 .post-meta td,
@@ -601,4 +584,25 @@ iframe {
 }
 .post-meta th {
   text-align: left  
+}
+@media (min-width: 38rem) {
+  iframe {
+    max-width:  32rem;
+    max-height: 18rem;
+  }
+}
+@media (min-width: 56rem) {
+  iframe {
+    max-width: 38rem;
+    max-height:21.375rem
+  }
+  .post {
+    position: relative; /*anchor the post meta*/
+  }
+  .post-meta {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    margin-right: 40px;
+  }
 }
