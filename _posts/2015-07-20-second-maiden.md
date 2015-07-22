@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-fpv: false
+fpv: none
 duration: ~30m
 mode: angle
 amps: 3900 mAh
