@@ -1,6 +1,13 @@
 ---
 published: false
+layout: post
+fpv: some
+duration: ~15m
+mode: angle
+amps: 1300 mAh
+batteries: 1
 ---
+
 
 Conditions this time around were less-than-ideal, mostly because I waited around too long and it had gotten a little dark (*blame a tasty soba noodle dinner and be happy for it*). Practice-wise it was more of the same - launches and radial moves. Two observations - (1) Man, is the LED panel ever bright! (2) The FPV camera has suprisingly good low-light detail. The illumination was 90% streetlamps, and the fact that I could make out the terrain change in the grass is impressive.
 
