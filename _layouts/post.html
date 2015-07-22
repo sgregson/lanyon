@@ -6,10 +6,7 @@ published: true
 
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-    <table class="post-meta">
+  <table class="post-meta">
   {% if page.fpv %}
     <tr><td>FPV</td> <th>{{ page.fpv }}</th></tr>
   {% endif %}
@@ -26,6 +23,9 @@ published: true
     <tr><td>batteries</td> <th>{{ page.batteries }}</th></tr>
   {% endif %}
   </table>
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
 </div>
 
 <div class="related">
