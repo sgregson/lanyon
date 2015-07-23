@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 fpv: some
 duration: 20m
 amps: 2600mah
 ---
+
 
 
 Maiden flight today, Hanging out with friends (spotters).
