@@ -16,7 +16,7 @@ I've been getting better at line-of-sight, so I took it through the trees a litt
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/D8crsF1mvYo" frameborder="0" allowfullscreen></iframe>
 
-<script src="https://embed.github.com/view/geojson/sgregson/tangent-rc/gh-pages/tangent-rc/maps/2015-7-22-flight.geojson?width=720&height=300"></script>
+<script src="https://embed.github.com/view/geojson/sgregson/tangent-rc/gh-pages/maps/2015-7-22-flight.geojson?width=720&height=300"></script>
 
 ## Crashes:
 
