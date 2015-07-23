@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#b90000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "flight path",
+        "date": "2015-7-22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.10433101654053,
+            42.315944243266536
+          ],
+          [
+            -71.10428273677826,
+            42.31607514375353
+          ],
+          [
+            -71.10413789749146,
+            42.31615051057707
+          ],
+          [
+            -71.10410571098328,
+            42.316229843978036
+          ],
+          [
+            -71.10412716865538,
+            42.31628934396312
+          ],
+          [
+            -71.10412180423737,
+            42.31639247713734
+          ],
+          [
+            -71.10395550727844,
+            42.31669790900796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b90000",
+        "marker-size": "medium",
+        "marker-symbol": "airfield",
+        "title": "operator position",
+        "date": "2015-7-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10421299934387,
+          42.316332977249765
+        ]
+      }
+    }
+  ]
+}
