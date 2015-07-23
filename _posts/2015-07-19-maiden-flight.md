@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+fpv: some
+duration: 20m
+amps: 2600mah
 ---
 
 
