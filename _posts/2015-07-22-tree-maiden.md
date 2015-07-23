@@ -25,7 +25,9 @@ I've been getting better at line-of-sight, so I took it through the trees a litt
 
 ![chipped props (all four like this)](https://lh3.googleusercontent.com/OCi234nXAqwmrsidJbXoAoovBJmROm2u2kNcJEs6OyQ=w711-h400-no)
 
-I've since learned that one needs to teach their co-pilots (spectators / spotters) how to indicate directional obstacles. And, while my line-of-sight flying on this copter's improving, I'm still very much a FPV rookie. Three aspects to a good obstacle alert:
+I've since learned that one needs to teach their co-pilots (spectators / spotters) how to indicate directional obstacles. And, while my line-of-sight flying on this copter's improving, I'm still very much a FPV rookie.
+
+A good obstacle alery has three traits:
 
 1. **Obstacle type**
   - tree / stump / fence / person (person implies critical stop)
@@ -42,10 +44,12 @@ I've since learned that one needs to teach their co-pilots (spectators / spotter
 ## Next Purchases:
 
 - replacement d4r-ii antennae (buy a pair, or three)
-- 
+- gemfan props replacements (5030 and 5045)
+- AA batteries or LiPo for Turnigy 9x
 
 ## Next configuration:
 
 - f/s on d4r-ii
 - dominator DVR
 - PID tweaks? investigate non-AnthonyRC protune with acceptable angle mode
+- Turnigy 9x LiPo mod
