@@ -1,5 +1,12 @@
 ---
 published: false
+layout: post
+fpv: some
+duration: ~15m
+mode: angle
+amps: 1500 mAh
+batteries: 2
+crashes: 2.2
 ---
 
 Another night flight, this one was a little more intentional.
