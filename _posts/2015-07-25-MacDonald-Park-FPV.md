@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+fpv: "yes"
+duration: 1h
+batteries: 3
+amps: 3900mAh
+crashes: 2
 ---
 
 Went to MacDonald Park in Medford to take out the Vortexes (vortices?). Having that much space to fly is SO much better - it's easy enough to practice maneuvers in JP but to really get some velocity behind the turns you need more space. So cool seeing these things zipping around the field! *[Vortex vs. Vortex, who shall win](http://posters.keepcalmandposters.com/4737577.jpg "Two drones enter, one drone leaves")?*
