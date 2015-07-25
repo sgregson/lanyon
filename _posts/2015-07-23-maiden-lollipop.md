@@ -1,6 +1,10 @@
 ---
 published: true
+fpv: some
+duration: 30m
+batteries: 2
 ---
+
 
 
 ...I guess a lollipop is half of a figure eight? This will probably be the last "Maiden"-theme post. I'm getting half decent at flying this beast line-of-sight, but that doesn't mean you don't hit stuff.
