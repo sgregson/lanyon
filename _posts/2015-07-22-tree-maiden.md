@@ -14,7 +14,7 @@ Another night flight, this one was a little more intentional.
 
 I've been getting better at line-of-sight, so I took it through the trees a little. Predictable crashes to be had there. Dust was fun to get the reflectance in the LED panel but not worth the follow-up cleaning (wet wipes and pressurized aircan).
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/D8crsF1mvYo" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Vj2fQ5aWAl8" frameborder="0" allowfullscreen></iframe>
 
 <script src="https://embed.github.com/view/geojson/sgregson/tangent-rc/gh-pages/maps/2015-7-22-flight.geojson?width=720&height=300"></script>
 
@@ -40,7 +40,7 @@ A good obstacle alery has three traits:
   - Now
 4. ***"DROP!"***
   - fall-out-of-the-sky mode, critical problem imminent
-  
+
 ## Next Purchases:
 
 - replacement d4r-ii antennae (buy a pair, or three)
