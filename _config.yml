@@ -11,6 +11,8 @@ description:         'Flight log of a first-time FPV experience on the IRC Vorte
 url:                 http://sgregson.github.io/tangent-rc
 baseurl:             '/tangent-rc'
 paginate:            5
+youtube:
+  channel:          https://www.youtube.com/channel/UCNcXVpydGn7OEZHpUTV1MFg/
 github:
   repo:             http://github.com/sgregson/tangent-rc
 
