@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: tools
+title: Tools
 ---
 
 Great tools make a silly site like this possible, without which it would be entirely boring. Support these content creators and learn how awesome the web can be with an open source publishing platform!
