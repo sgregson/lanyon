@@ -1,6 +1,12 @@
 ---
 published: true
+layout: post
+fpv: none
+batteries: 2
+amps: 3100
+crashes: 2
 ---
+
 
 
 I don't know what the audio of this clips is going to look like, but I'm pretty excited that I was able to get the internal and external video to sync up!
