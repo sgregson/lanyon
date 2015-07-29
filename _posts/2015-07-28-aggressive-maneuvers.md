@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 I don't know what the audio of this clips is going to look like, but I'm pretty excited that I was able to get the internal and external video to sync up!
 
