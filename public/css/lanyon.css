@@ -573,7 +573,7 @@ iframe[src*="youtube.com"] {
   height: 56.25vw; /* close enough */
   height: calc((100vw - 2rem) / 1.777); /* calc(FTW) */
 }
-iframe[src*="youtube.com"] {
+iframe[src*="viewsync.net"] {
   max-width:  28rem;
   max-height: 31.888rem;
   width: 100%; /* container: 100vw - 2rem */
@@ -602,7 +602,7 @@ iframe[src*="youtube.com"] {
   }
   iframe[src*="viewsync.net"] {
     max-width:  32rem;
-    max-height: 36.444rem;
+    max-height: 36.4444rem;
   }
 }
 @media (min-width: 56rem) {
