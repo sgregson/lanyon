@@ -566,7 +566,7 @@ a.pagination-item:hover {
 /***********************
 *****custom css code****
 ************************/
-iframe {
+iframe[src*="youtube.com"] {
   max-width:  28rem;
   max-height: 15.75rem;
   width: 100%; /* container: 100vw - 2rem */
@@ -589,13 +589,13 @@ iframe {
   text-align: left  
 }
 @media (min-width: 38rem) {
-  iframe {
+  iframe[src*="youtube.com"] {
     max-width:  32rem;
     max-height: 18rem;
   }
 }
 @media (min-width: 56rem) {
-  iframe {
+  iframe[src*="youtube.com"] {
     max-width: 38rem;
     max-height:21.375rem
   }
