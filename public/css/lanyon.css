@@ -573,6 +573,13 @@ iframe[src*="youtube.com"] {
   height: 56.25vw; /* close enough */
   height: calc((100vw - 2rem) / 1.777); /* calc(FTW) */
 }
+iframe[src*="youtube.com"] {
+  max-width:  28rem;
+  max-height: 31.888rem;
+  width: 100%; /* container: 100vw - 2rem */
+  height: 113.889vw; /* close enough */
+  height: calc((100vw - 2rem) / 0.87804); /* calc(FTW) */
+}
 .post-meta {
   width: auto;
   float: right;
@@ -593,11 +600,19 @@ iframe[src*="youtube.com"] {
     max-width:  32rem;
     max-height: 18rem;
   }
+  iframe[src*="viewsync.net"] {
+    max-width:  32rem;
+    max-height: 36.444rem;
+  }
 }
 @media (min-width: 56rem) {
   iframe[src*="youtube.com"] {
     max-width: 38rem;
     max-height:21.375rem
+  }
+  iframe[src*="viewsync.net"] {
+    max-width: 38rem;
+    max-height:43.278rem
   }
   .post {
     position: relative; /*anchor the post meta*/
